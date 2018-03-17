@@ -1,0 +1,11 @@
+C:\Users\Mates\source\repos\ija2\ija2\bin\Debug\netcoreapp2.0\ija2.deps.json
+C:\Users\Mates\source\repos\ija2\ija2\bin\Debug\netcoreapp2.0\ija2.runtimeconfig.json
+C:\Users\Mates\source\repos\ija2\ija2\bin\Debug\netcoreapp2.0\ija2.runtimeconfig.dev.json
+C:\Users\Mates\source\repos\ija2\ija2\bin\Debug\netcoreapp2.0\ija2.dll
+C:\Users\Mates\source\repos\ija2\ija2\bin\Debug\netcoreapp2.0\ija2.pdb
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.csprojResolveAssemblyReference.cache
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.csproj.CoreCompileInputs.cache
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.AssemblyInfoInputs.cache
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.AssemblyInfo.cs
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.dll
+C:\Users\Mates\source\repos\ija2\ija2\obj\Debug\netcoreapp2.0\ija2.pdb
